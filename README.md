@@ -11,7 +11,7 @@ Add the latest stable release to your `mix.exs` file:
 ```elixir
 defp deps do
   [
-    {:arc_ecto, git: "git@github.com:patipolchat/arc_ecto.git", branch: "master"}
+    {:arc_ecto, git: "https://github.com/patipolchat/arc_ecto", branch: "master"}
   ]
 end
 
