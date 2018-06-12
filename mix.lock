@@ -1,4 +1,4 @@
-%{"arc": {:git, "https://github.com/stavro/arc.git", "e4b1afd0f63a7869128aabe4019b99edd8174d20", [branch: "master"]},
+%{"arc": {:git, "https://github.com/patipolchat/arc", "9caa7ab05294e2fb9d950843dc5cef7839a24d73", [branch: "master"]},
   "certifi": {:hex, :certifi, "2.3.1", "d0f424232390bf47d82da8478022301c561cf6445b5b5fb6a84d49a9e76d2639", [:rebar3], [{:parse_trans, "3.2.0", [hex: :parse_trans, repo: "hexpm", optional: false]}], "hexpm"},
   "decimal": {:hex, :decimal, "1.4.0", "fac965ce71a46aab53d3a6ce45662806bdd708a4a95a65cde8a12eb0124a1333", [:mix], [], "hexpm"},
   "earmark": {:hex, :earmark, "1.0.1", "2c2cd903bfdc3de3f189bd9a8d4569a075b88a8981ded9a0d95672f6e2b63141", [:mix], [], "hexpm"},
